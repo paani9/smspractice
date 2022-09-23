@@ -8,6 +8,7 @@ public class Practice3Test {
 	public void step3Test()
 	{
 		Reporter.log("3",true);
+		Reporter.log("4",true);
 	}
 
 }
