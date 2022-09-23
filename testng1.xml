@@ -4,8 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="org.sms.practice.Practice3Test"/>
-      <class name="org.sms.practice.Practice1Test"/>
-      <class name="org.sms.practice.Practice2Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
