@@ -9,9 +9,10 @@ public class Practice3Test {
 	@Test
 	public void step3Test()
 	{
-	
+		 String browser = System.getProperty("b");
+		 String url=System.getProperty("url");
+		 System.out.println(browser+url);
 		Reporter.log("3",true);
-		Reporter.log("4",true);
 	}
 
 }
